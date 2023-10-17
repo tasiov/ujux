@@ -1,0 +1,2 @@
+chain-id = "stargaze-1"
+db-path  = "./tmp/node/data"
